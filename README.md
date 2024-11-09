@@ -6,13 +6,13 @@ A C project that implements the ``get_next_line`` function, which reads a line f
 Table of Contents
 -----------------
 
-- `About the Project <#about-the-project>`_
-- `Features <#features>`_
-- `Getting Started <#getting-started>`_
-- `Usage <#usage>`_
-- `Examples <#examples>`_
-- `Function Details <#function-details>`_
-- `Acknowledgments <#acknowledgments>`_
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Function Details](#function-details)
+- [Acknowledgments](#acknowledgments)
 
 About the Project
 -----------------
